@@ -27,7 +27,6 @@ This project is part of my **SQL portfolio** and demonstrates practical skills i
 ```sql
 CREATE DATABASE sql_project;
 USE sql_project;
-
 ```
 ### Table: `zepto`
 
@@ -81,7 +80,6 @@ Found premium-priced products that are currently unavailable, highlighting poten
 
 ### 3️⃣ Revenue by Category
 Calculated estimated revenue using:
-
 discountSellingPrice × availableQuantity
 
 
@@ -124,9 +122,10 @@ Calculated total inventory weight per category to support inventory planning.
 
 ---
 
-## 📌 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - SQL querying & optimization  
 - Data cleaning  
 - Business-focused data analysis  
 - Inventory & pricing insights  
+
