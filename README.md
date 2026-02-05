@@ -28,6 +28,7 @@ This project is part of my **SQL portfolio** and demonstrates practical skills i
 CREATE DATABASE sql_project;
 USE sql_project;
 
+```
 ### Table: `zepto`
 
 | Column Name | Description |
